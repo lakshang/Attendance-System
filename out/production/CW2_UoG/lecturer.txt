@@ -1,0 +1,5 @@
+UnitID   UnitName RoomNo  RoomName       LecturerName RoomCapacity NoOfStudentsEntrolled
+ECSC400  ; Software Development Principles 01  ; 21.206  ; Breakout Room ; Dr.Foster  ;6  ;4
+ECSI401  ; Computer Fundermentals  ; 31.206  ; Freeout Room ; Mr.Jey  ;5  ;4
+ECSI402  ; Communication Skills  ; 4.206  ; Language Room ; Mr.Keny  ;5  ;4
+ECSL403  ; Information and Data Modelling  ; 45.201  ; Information Room ; Mr.Tenny  ;6  ;4

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CW2_UoG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CW2_UoG.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

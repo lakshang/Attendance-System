@@ -1,0 +1,24 @@
+					
+ Attendance Report
+Unit        :   ECSC400
+Unit Name   :   Software Development Principles 01
+Room        :   21.206
+Name        :   Breakout Room
+Lecturer    :   Dr.Foster
+Week#       :   1
+Date        :   15/09/2014
+Student No.      Last Name      First Name      Present
+2014001          Isha     	    Al-Moo  	 Y
+2014565          Analysis     	    Sys  	 N
+2015002          Baa     	    Koala  	 Y
+2015555          James     	    Anderson  	 N
+2015478          Khan     	    Moen  	 N
+2014293          Feddy     	    Call  	 N
+2014565          Hugh     	    Jenr  	 N
+2014896          Kenny     	    Robert  	 N
+2014986          Jimmy     	    Albert  	 N
+Lecturer confirmed attendance: Yes/No
+Students Enrolled       :   4
+Attendance              :   2
+Room capacity           :   6
+Percentage occupancy    :   33.33%

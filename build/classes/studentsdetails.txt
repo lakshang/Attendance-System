@@ -1,0 +1,10 @@
+Student No.     Last Name       First Name  
+2014001   Isha   Al-Moo
+2014565   Analysis   Sys
+2015002   Baa   Koala
+2015555   James   Anderson
+2015478   Khan   Moen
+2014293   Feddy   Call
+2014565   Hugh   Jenr
+2014896   Kenny   Robert
+2014986   Jimmy   Albert

@@ -1,0 +1,13 @@
+Room_No  Student_ID  Unit_ID  Lecturer_Name  Date        Week_No
+21.206   2014001     ECSC400  Dr.Foster      15/09/2014  01
+31.206   2014565     ECSI401  Mr.Jey         16/09/2014  01
+21.206   2015002     ECSC400  Dr.Foster      15/09/2014  01
+31.206   2015555     ECSI401  Mr.Jey         16/09/2014  01
+4.206    2014293     ECSI402  Mr.Kenny       17/09/2014  01
+45.201   2014789     ECSL403  Mr.Tenny       18/09/2014  01
+21.206   2014001     ECSC400  Dr.Foster      22/09/2014  02
+31.206   2014565     ECSI401  Mr.Jey         23/09/2014  02
+21.206   2015002     ECSC400  Dr.Foster      22/09/2014  02
+31.206   2015555     ECSI401  Mr.Jey         23/09/2014  02
+4.206    2014293     ECSI402  Mr.Kenny       24/09/2014  02
+45.201   2014789     ECSL403  Mr.Tenny       25/09/2014  02
